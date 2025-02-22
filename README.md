@@ -12,7 +12,7 @@
 
   <h3 align="center">A HealthCare Management System</h3>
   <div align="center">
-     <a href="https://care-pulse-dun.vercel.app/" target="_blank"><b>CarePulse Website</b></a>
+     <a href="https://care-pulse-kaels-projects-5595dfa7.vercel.app/" target="_blank"><b>CarePulse Website</b></a>
     </div>
   </div>
 
